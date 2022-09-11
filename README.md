@@ -1,0 +1,1 @@
+# LinqImprovementsDotNetCore6
